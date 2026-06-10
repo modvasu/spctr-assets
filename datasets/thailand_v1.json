@@ -1,1 +1,25 @@
+[
+    {
+      "id": "doi_inthanon_peak",
+      "name": "Doi Inthanon Summit",
+      "province": "Chiang Mai",
+      "coordinates": {
+        "latitude": 18.588,
+        "longitude": 98.487
+      },
+      "tier": "gold",
+      "sponsored": false
+    },
 
+  {
+    "id": "dev_nan_test",
+    "name": "Dev Test",
+    "province": "Nan",
+    "coordinates": {
+      "latitude": 18.768736,
+      "longitude": 100.754219
+    },
+    "tier": "gold",
+    "sponsored": false
+  }
+]

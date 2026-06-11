@@ -1,25 +1,23 @@
 [
-    {
-      "id": "doi_inthanon_peak",
-      "name": "Doi Inthanon Summit",
-      "province": "Chiang Mai",
-      "coordinates": {
-        "latitude": 18.588,
-        "longitude": 98.487
-      },
-      "tier": "gold",
-      "sponsored": false
-    },
-
   {
-    "id": "dev_nan_test",
-    "name": "Dev Test",
+    "id": "doi_inthanon_peak",
+    "name": "Doi Inthanon Summit",
+    "province": "Chiang Mai",
+    "coordinates": { "latitude": 18.588, "longitude": 98.487 },
+    "tier": "gold"
+  },
+  {
+    "id": "khao_kra_chom",
+    "name": "Khao Kra Chom Peak",
+    "province": "Ratchaburi",
+    "coordinates": { "latitude": 13.5554, "longitude": 99.2045 },
+    "tier": "silver"
+  },
+  {
+    "id": "lykke_cafe_nan",
+    "name": "LYKKE Cafe & Restaurant",
     "province": "Nan",
-    "coordinates": {
-      "latitude": 18.768736,
-      "longitude": 100.754219
-    },
-    "tier": "gold",
-    "sponsored": false
+    "coordinates": { "latitude": 18.7687, "longitude": 100.7542 },
+    "tier": "bronze"
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "evt_cannonball_2026",
+    "name": "Cannonball Thailand 2026",
+    "province": "All",
+    "coordinates": { "latitude": 13.7563, "longitude": 100.5018 },
+    "iconType": "event_flag",
+    "campaignId": "cannonball_thailand",
+    "startDate": "2026-01-01T00:00:00Z",
+    "endDate": "2026-12-31T23:59:59Z",
+    "description": "พิชิตหมุดทั่วประเทศไทยภายในระยะเวลา 1 ปี เพื่อรับตราสัญลักษณ์เกียรติยศสูงสุด"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sp_garage_01",
+    "name": "Chomthong Moto Service",
+    "province": "Chiang Mai",
+    "coordinates": { "latitude": 18.4231, "longitude": 98.6791 },
+    "iconType": "mechanic", 
+    "perks": "10% Discount on Engine Oil for SPCTR Riders"
+  },
+  {
+    "id": "sp_cafe_gold_upgrade",
+    "name": "Premium Bikers Cafe",
+    "province": "Nan",
+    "coordinates": { "latitude": 18.7812, "longitude": 100.7611 },
+    "iconType": "cafe",
+    "perks": "Free Welcome Drink"
+  }
+]
